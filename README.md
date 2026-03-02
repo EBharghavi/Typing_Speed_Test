@@ -20,7 +20,7 @@ This Java-based Typing Speed Test application challenges users to type a sentenc
 1. **Clone or Download the Project**:
     - Clone the repository (if applicable):
       ```bash
-      git clone https://github.com/yourusername/typing-speed-test.git
+      git clone https://github.com/ebharghavi/typing-speed-test.git
       ```
 
 2. **Compile and Run**:
